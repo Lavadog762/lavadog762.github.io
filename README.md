@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <title>My GitHub Site</title>
-</head>
-<body>
-    <h1>Welcome to my website!</h1>
-    <p>Content is successfully live.</p>
-</body>
+    <head>
+        <meta charset=utf-8 />
+    </head>
+    <body>
+        <h1>Brag Sheet!</h1>
+        <a href="mailto:thebert.86+github@gmail.com">Email me.</a>
+    </body>
 </html>
 
